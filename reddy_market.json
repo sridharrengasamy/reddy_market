@@ -80,10 +80,15 @@
          "type":"video",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_market/main/video10.mp4"
       },
+      {
+         "type":"pdf",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/file1.pdf"
+      },
    
       {
          "type":"youtube",
          "Id":"_W-EvzjDFMk"
        }
    ]
+
  }
