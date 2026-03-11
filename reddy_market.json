@@ -2,6 +2,11 @@
    "media":[
       {
          "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_market/main/vigi.jpeg"
+      },
+      
+      {
+         "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_market/main/img (1).jpg"
       },
       {
@@ -92,4 +97,5 @@
    ]
 
  }
+
 
